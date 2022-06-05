@@ -1,0 +1,36 @@
+Pilares: Decomposição, padrões, abstração e algoritmos
+
+Decomposição: é decompor o problema maior em problemas menores e assim analisar e resolver
+o problemas menores para depois conseguir resolver o problema maior.
+Padrão: reconhecer padrões através de modelos repetidos (mesmo que exista uma variação
+vai existir um modelo de referência e assim existirá um padrão).
+Abstração: isolar o objeto da realidade, pegando seus elementos principais tornando - os geral
+e assim deteminamos classes e objetos que compoem essas classes.
+Algoritmos: processo de resolução de problemas "step by step" (passo a passo) utilizando
+instruções. Descreve o problema através de ferramentas narrativas, fluxograma ou pseudocódigo.
+
+Técnicas de lógica de programação
+
+Técnica Linear: Ordenação de elementos por uma única propriedade
+execução sequenciada > única dimensão > recursos limitados
+Técnica Estruturada: Organização, disposição de ordens dos elementos
+essenciais que compõem um corpo (concreto ou abstrato)
+escrita > entendimento > validação > manutenção
+Técnica Modular: Definição de partes independentes que são controladas por um
+conjunto de regras e cada modulo tem um conjunto de regras específicas
+Dados de entrada > Processo de Transformação > Dados de sáida
+
+Estrutura Condicional
+Existe uma condição satisfeita e assim é executado uma operação
+simples > composta > encadeada
+Estrutura de repetição
+Executar um determinado trecho de uma programa a partir de 
+certos parametos que serão estabelecidos dentro dessa estrutuda de repetição.
+
+Características de um Programa
+*Diretrizes: Legibilidade, Redigibilidade, Confiabilidade e Custo
+*Atualizações, Uso para IA, Disponibilidades de Ferramentas, Comunidade Ativa,
+e Adoção pelo mercado
+
+Links: https://happycodeschool.com/blog/o-que-e-pensamento-computacional-por-que-e-importante/
+Portugol: https://portugol-webstudio.cubos.io/ide

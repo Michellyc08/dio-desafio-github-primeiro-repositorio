@@ -1,0 +1,10 @@
+Javascript é uma linguagem de programação bastante popular, criada com o objetivo de tornar as páginas web mais rápidas e com uma melhor experiência de navegação.
+O desenvolvimento inicial dessa linguagem foi pensado para a execução em navegadores. 
+JS foi criada pela antiga empresa Netscape Communications Corporations, hoje chamada de Mozilla Foundation.
+Essa linguagem de programação é leve, baseada em funções de primeira classe e orientada a objetos. Ela é considerada uma linguagem de script. 
+Com vasta aplicação e diversos frameworks interessantes, Javascript é a linguagem certa para os/as programadores/as que desejam trabalhar 
+com bastante versatilidade em seus projetos. Essa linguagem de alto nível existe desde a década de 1990 e, por isso, 
+é bastante difundida entre os/as profissionais da área no mundo todo. Atualmente, Javascript é uma das linguagens mais importantes do mercado. 
+Ela pode ser usada para desenvolver aplicativos mobile, desktop e soluções baseadas em navegadores e na web. 
+
+Link do Vs Code: https://code.visualstudio.com/download

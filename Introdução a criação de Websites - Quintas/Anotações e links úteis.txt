@@ -1,0 +1,11 @@
+MODEM - aparelho que modula e demodula sinais
+ROTEADOR - aparelho que distribui internet para um ou mais
+depositivos
+SWITCH - distribui internet para um ou mais dispositivos
+apenas para o qual foi solitado
+BROWSER - sabem identificar várias LP, linguagens de
+marcação e conteúdo multimidia (HTML é uma linguagem de marcação)
+STACKS - é um conjunto de softwares necessários e suficientes
+para executar um app ou programa.
+
+Links: https://kenzie.com.br/blog/css3/
